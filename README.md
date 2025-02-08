@@ -6,15 +6,16 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Neema fathima A] - [AL JAMIA ARTS AND SCIENCE COLLEGE]
+- Member 2: [Ayshath reefa KP] - [AL JAMIA ARTS AND SCIENCE COLLEGE]
+- Member 3: [Hiba fathima A] - [AL JAMIA ARTS AND SCIENCE COLLEGE]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+skin-care-project-two.vercel.app
+
 
 ### Project Description
-[2-3 lines about what your project does]
+we build skin care website
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
@@ -25,10 +26,9 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-html
+-css
+-javascript
 
 For Hardware:
 - [List main components]
